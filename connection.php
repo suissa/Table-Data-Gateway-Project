@@ -12,7 +12,7 @@
 									if($con):
 											mysql_select_db(DB);	
 									else:
-											die ('erro de Conex&atilde;o');
+											die ('erro de Conex&atilde;o!');
 									endif;
 						}
 						
