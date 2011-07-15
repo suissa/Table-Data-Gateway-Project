@@ -26,9 +26,9 @@
 
 	if(MODE == 'd'):
 			define('HOST', 'localhost'); //host ex. localhost
-			define('USER', 'root');// usuario do banco ex. root
-			define('PASS', 'sktbording'); // senha
-			define('DB', 'n10'); // banco do projeto
+			define('USER', '');// usuario do banco ex. root
+			define('PASS', ''); // senha
+			define('DB', ''); // banco do projeto
 	else:
 			define('HOST', "localhost"); //host ex. localhost
 			define('USER', '');// usuario do banco ex. root
