@@ -15,7 +15,7 @@
 	define('CONEXAO', 'connection.php');
 	
 	
-	//modo de desenvolvimento (p = production , d = development)
+	//modo do ambiente (p = production , d = development)
 	define('MODE', 'd');
 
 	
