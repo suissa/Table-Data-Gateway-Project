@@ -280,7 +280,7 @@
 						   * ainda ta um pouco estruturado , refatorarei em breve e ficará xuxu blza.
 						   * exemplo de utilização
 						   
-						   * Record::selectAll('cliente') //pessoa supondo que tem como tabela pai 'USUARIO';
+						   * Record::selectAll('cliente') //cliente supondo que tem como tabela pai 'USUARIO';
 						   
 						   * Output : select * from cliente inner join usuario on cliente.usuario_id = usuario.idusuario; *nome das colunas somente exemplo*
 						   * Obs: se tiver outras FK , o método mapeará elas e fara com que atuem na query. 
