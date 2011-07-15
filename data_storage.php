@@ -2,7 +2,7 @@
 	
 	// @author R'Santiago 
 	
-	define('APP_NAME', ''); //defina aqui o nome do projeto
+	
 	define('SITE_URL', $_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR.APP_NAME."/"); // insira aqui o PATH real do projeto
 	define('SITE_ROOT', $_SERVER['SERVER_NAME'].DIRECTORY_SEPARATOR.APP_NAME); //insira aqui o PATH do server.
 
